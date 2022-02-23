@@ -178,6 +178,7 @@ header .follow a:hover{
 }
 .about .heading{
     margin-top: 30%;
+    text-align:center;
 }
 .about .row-1{
     margin-top: 10%;
@@ -371,6 +372,7 @@ header .follow a:hover{
 }
 .experience{
     margin-top: 20%;
+     text-align:center;
 }
 .experience .box-container{
     margin-top: 10%;
@@ -438,6 +440,7 @@ header .follow a:hover{
 }
 .portfolio{
     margin-top: 20%;
+     text-align:center;
 }
 
 .portfolio .clm{
@@ -507,6 +510,7 @@ justify-content: space-around;
 }
 .contact{
     margin-top: 20%;
+     text-align:center;
 }
 
 .contact .icons-container{
